@@ -1,0 +1,8 @@
+What shell are we using?
+2. How do you edit the zshrc file?
+3. How do you verify that changes have been made to the path?
+4. What's the path of the Flutter get directory?
+5. How do you verify if the Flutter command is working?
+6. What do you need to install to build native Android apps?
+7. What do you use Android Studio for?
+8. How do you install the Android SDK command line tools?
